@@ -8,10 +8,6 @@ Ricardo Zago - Avalon Blockchain Consulting
   <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
 </p>
 
-<p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
-</p>
-
 ### DESCRIÇÃO
 Aprender, desenvolver, como criar um Token do zero nos Padrões Web3. 
 Este projeto teve o objetivo de criar, a partir das instruções do Instrutor Ricardo Zago, um Token do zero. 
