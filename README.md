@@ -1,6 +1,6 @@
 ## Criando o Seu Primeiro Token do Zero nos Padrões Web3
 ### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 10 de julho de 2024
+### Data.: 25 de julho de 2024.
 
 ### Orientador:
 Ricardo Zago - Avalon Blockchain Consulting
@@ -15,7 +15,7 @@ Para isso, foi indispensável seguir os passo a passo para a configuração da W
 Posteriormente, a partir do código base e das instruções, foi feito as alterações necessárias utilizando a IDE REMIX e então fazer o deploy do seu Token.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/Ganache.jpg" alt="Ganache">
+  <img src="https://raw.githubusercontent.com/gdmacedo/TokenNosPadr-esWeb3/main/Token_GLENER_001.jpg" alt="Transação">
 </p>
 
 
