@@ -26,7 +26,7 @@ Neste projeto foi utilizado, as seguintes ferramentas:
 - Configurando Metamask - https://metamask.io/​
 - Criando o seu Token
 - Entendendo o Desafio
-- rpc.info
+- rpc.info / Ganache
 - remix.ethereum.org
 
 
